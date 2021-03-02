@@ -16,4 +16,6 @@ choco install deskpins -y
 choco install yarn -y
 choco install foxitreader -y
 choco install crystaldiskmark -y
-
+choco install robo3t -y
+choco install postman -y
+choco install figma -y
